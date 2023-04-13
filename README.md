@@ -1,0 +1,1 @@
+Úkoly na kurz Python 2
